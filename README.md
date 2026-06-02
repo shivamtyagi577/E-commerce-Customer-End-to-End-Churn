@@ -1,6 +1,7 @@
 # E-commerce-Customer-End-to-End-Churn
 This project analyzes customer churn data from an e‑commerce company to identify customers who are likely to stop using the platform. By understanding behavioral patterns and customer characteristics, the goal is to build a machine learning model that enables proactive customer retention strategies.
 
+![Dashboard Pic](https://thfvnext.bing.com/th/id/OIP.bT00ddjqhb0U0RFajyyCHwHaEK?w=318&h=180&c=7&r=0&o=7&cb=thfvnextfalcon&pid=1.7&rm=3)
 
 # 📊 E‑Commerce Customer Churn Analysis
 
